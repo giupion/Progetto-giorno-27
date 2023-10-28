@@ -56,6 +56,7 @@ padding:30px;}
 
 /* ELEMENTI NEL MAIN - ARTICLE */
 .lavoradovevuoi{ border-radius: 50%;
+    margin-bottom: 15px;
    
   }
 
@@ -63,6 +64,7 @@ padding:30px;}
   .epicodegarantisce{border:1px solid #f04c2fed;
     background-color: #f04c2f;
     margin-bottom:50px;
+    font-style:oblique;
 
 }
 
@@ -75,11 +77,19 @@ section h1{color:white !important;}
 
 /* FOOTER */
 footer{text-align: center;
-    background-color: #c8e7f0;}
+    background-color: #25a2c3}
 
-footer h1{color:white;}
+footer h1 {color:white;}
 
-footer a{color:#c8e7f0}
+footer p{color:#c8e7f0};
+
+footer p a{color:white}
+
+footer p a{color:white;}
+
+hr{width:50%;
+border:1px solid white;}
+
 
 
 
