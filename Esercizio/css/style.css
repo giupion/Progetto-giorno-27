@@ -53,7 +53,7 @@ width:200px;
 p{ font-size:1rem;
     margin:0 auto;
     text-align: center;
-    margin:15px}
+    margin: 15px;}
 
 .logo{
     margin:0 auto;
@@ -82,13 +82,26 @@ p{ font-size:1rem;
   .epicodegarantisce{border:1px solid #f04c2fed;
     background-color: #f04c2f;
     margin-bottom:50px;
-    font-style:oblique;
+    
     padding: 30px;
 
 }
 
-section p{color:white !important;}
-section h1{color:white !important;}
+section p{color:white !important;
+    font-size: 1rem;
+    font-style:oblique;
+   
+}
+.ceo{font-size: 0.8rem;
+font-style: normal;
+
+}
+
+section :nth-child(3){font-style:normal;}
+
+
+section h1{color:white !important;
+font-size:1.5rem;}
 
 /* ELEMENTI NELL' ASIDE */
 .paddingaside{padding-bottom:80px;}
