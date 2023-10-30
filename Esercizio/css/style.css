@@ -55,8 +55,10 @@ padding:30px;}
 
 
 /* ELEMENTI NEL MAIN - ARTICLE */
-.lavoradovevuoi{ border-radius: 50%;
+.lavoradovevuoi{ border-radius:50% !important;
     margin-bottom: 15px;
+    
+    align-items: center !important;
    
   }
 
