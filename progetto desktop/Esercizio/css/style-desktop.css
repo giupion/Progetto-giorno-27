@@ -51,7 +51,7 @@ width:200px;
 }
 p{ font-size:1rem;
     margin:0 auto;
-    text-align: center;
+   
     margin:15px}
 
 .logo{
@@ -68,6 +68,8 @@ p{ font-size:1rem;
 /* MAIN */
 
 .allinea{text-align: center;}
+
+.allineadx{text-align:left ;}
 
 
 /* ELEMENTI NEL MAIN - ARTICLE */
