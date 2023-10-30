@@ -94,16 +94,9 @@ section p{color:white !important;}
 section h1{color:white !important;}
 
 /* ELEMENTI NELL' ASIDE */
-.linea1{display:inline;
-align-items: left;
+
+.parent div{display: inline-block;
 text-align: left;}
-
-.linea2{display:inline;
-    align-items: center;
-    text-align: center;}
-
-.linea{display: inline;}
-
 
 /* FOOTER */
 footer{
