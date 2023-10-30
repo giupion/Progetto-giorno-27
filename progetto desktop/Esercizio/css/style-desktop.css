@@ -1,0 +1,121 @@
+/* Your styles here */
+
+
+
+*,html{font-size: 1em ;
+    margin:0 auto;
+    text-align: center;
+}
+
+
+body{color:#393d41 ;
+line-height: 1.65;
+font-size:1.2rem;
+font-family: 'Open Sans', sans-serif;
+margin-top:0;
+margin:0 auto;
+}
+
+h1,h2,h3{line-height:1.5;
+    font-family: 'Montserrat', sans-serif;
+color:#25a2c3 ;
+padding:10px;
+}
+
+h1{font-size:34.56px;}
+
+h2{font-size:1rem;}
+
+.container{margin:0 auto;
+    text-align: center;
+    width: 450px;
+    height:550px;
+    }
+
+/* HEADER */
+.sfondopc{background-image: url("../images/banner.jpg");
+    margin:0 auto;
+    text-align: center;
+background-size: 500px;
+padding-bottom: 30px;
+    
+}
+
+.bottonevia{border-radius: 5px;
+font-size:1.5rem;
+padding:15px;
+background-color:#f04c2f ;
+font-family: 'Montserrat', sans-serif;
+color:white;
+border:none;
+width:200px;
+}
+p{ font-size:1rem;
+    margin:0 auto;
+    text-align: center;
+    margin:15px}
+
+.logo{
+    margin:0 auto;
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+}
+
+.paddingarticle{padding:30px;}
+
+
+/* MAIN */
+
+.allinea{text-align: center;}
+
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+.lavoradovevuoi{ border-radius:50% !important;
+
+    
+    align-items: center !important;
+   
+  }
+
+
+  .epicodegarantisce{border:1px solid #f04c2fed;
+    background-color: #f04c2f;
+    margin-bottom:50px;
+    font-style:oblique;
+    padding: 30px;
+
+}
+
+section p{color:white !important;}
+section h1{color:white !important;}
+
+/* ELEMENTI NELL' ASIDE */
+.paddingaside{padding-bottom:80px;}
+
+
+/* FOOTER */
+footer{
+    margin:0 auto;
+    text-align: center;
+    
+    background-color: #25a2c3}
+
+footer h1 {color:white;}
+
+footer p{color:#c8e7f0};
+
+footer p a{color:white}
+
+footer p a{color:white;}
+
+footer a{color:white;}
+
+hr{width:50%;
+border:1px solid white;}
+hr{color:white;}
+
+
+
+
+
