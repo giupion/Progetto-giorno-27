@@ -20,9 +20,9 @@ color:#25a2c3 ;
 padding:10px;
 }
 
-h1{font-size:3rem;}
+h1{font-size:34.56px;}
 
-h2{font-size:1.5rem;}
+h2{font-size:1rem;}
 
 .container{margin:0 auto;
     text-align: center;
@@ -34,8 +34,6 @@ h2{font-size:1.5rem;}
     text-align: center;
 background-size: 500px;
     
-
-
 }
 
 .bottonevia{border-radius: 5px;
@@ -47,16 +45,16 @@ color:white;
 border:none;
 width:200px;
 }
-p{
+p{ font-size:19.2px;
     margin:0 auto;
     text-align: center;
     margin:15px}
 
 .logo{
     margin:0 auto;
-    text-align: center;text-align:center;
+    text-align: center;
     background-color: black;
-padding:30px;}
+}
 
 
 
