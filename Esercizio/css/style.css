@@ -2,7 +2,8 @@
 
 
 
-html{font-size: 1em ;}
+html{font-size: 1em ;
+margin:0 auto;}
 
 body{color:#393d41 ;
 line-height: 1.65;
@@ -21,13 +22,14 @@ h1{font-size:3rem;}
 
 h2{font-size:1.5rem;}
 
-.container{margin:0 auto;}
+.container{margin:0 auto;
+    text-align: center;}
 
 /* HEADER */
 .sfondopc{background-image: url("../images/banner.jpg");
 
 background-size: 500px;
-    text-align: center;
+    
 padding:30px;
 
 }
@@ -56,7 +58,7 @@ padding:30px;}
 
 /* ELEMENTI NEL MAIN - ARTICLE */
 .lavoradovevuoi{ border-radius:50% !important;
-    margin-bottom: 15px;
+
     
     align-items: center !important;
    
