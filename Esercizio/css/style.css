@@ -41,7 +41,7 @@ color:white;
 border:none;
 width:200px;
 }
-p{margin:15px;}
+p{margin:15px}
 
 .logo{text-align:center;
     background-color: black;
@@ -86,6 +86,8 @@ footer p{color:#c8e7f0};
 footer p a{color:white}
 
 footer p a{color:white;}
+
+footer a{color:white;}
 
 hr{width:50%;
 border:1px solid white;}
