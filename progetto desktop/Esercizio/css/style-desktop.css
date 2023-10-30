@@ -86,6 +86,7 @@ p{ font-size:1rem;
     margin-bottom:50px;
     font-style:oblique;
     padding: 30px;
+    text-align: center;
 
 }
 
@@ -93,8 +94,16 @@ section p{color:white !important;}
 section h1{color:white !important;}
 
 /* ELEMENTI NELL' ASIDE */
-.paddingaside{padding-bottom:80px;}
-
+.linea{display:inline;}
+.paddingaside1{display:inline;
+    padding-bottom:80px;
+    }
+    .paddingaside2{ 
+        display:inline;
+        text-align: center;}
+        .paddingaside3{
+            display:inline;
+            text-align: right;}
 
 /* FOOTER */
 footer{
@@ -121,3 +130,9 @@ hr{color:white;}
 
 
 
+/*.paddingaside1{padding-bottom:80px;
+text-align: left;}
+.paddingaside2{padding-bottom:80px;
+    text-align: center;}
+    .paddingaside3{padding-bottom:80px;
+        text-align: right;}*/
