@@ -94,16 +94,16 @@ section p{color:white !important;}
 section h1{color:white !important;}
 
 /* ELEMENTI NELL' ASIDE */
-.linea{display:inline;}
-.paddingaside1{display:inline;
-    padding-bottom:80px;
-    }
-    .paddingaside2{ 
-        display:inline;
-        text-align: center;}
-        .paddingaside3{
-            display:inline;
-            text-align: right;}
+.linea1{display:inline;
+align-items: left;
+text-align: left;}
+
+.linea2{display:inline;
+    align-items: center;
+    text-align: center;}
+
+.linea{display: inline;}
+
 
 /* FOOTER */
 footer{
