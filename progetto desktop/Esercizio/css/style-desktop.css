@@ -4,7 +4,7 @@
 
 *,html{font-size: 1em ;
     margin:0 auto;
-    text-align: center;
+     
 }
 
 
@@ -27,9 +27,8 @@ h1{font-size:34.56px;}
 h2{font-size:1rem;}
 
 .container{margin:0 auto;
-    text-align: center;
-    width: 450px;
-    height:550px;
+    
+    
     }
 
 /* HEADER */
@@ -60,6 +59,7 @@ p{ font-size:1rem;
     text-align: center;
     background-color: black;
     padding: 30px;
+    text-align: left;
 }
 
 .paddingarticle{padding:30px;}
