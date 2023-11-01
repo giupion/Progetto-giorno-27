@@ -32,13 +32,21 @@ h2{font-size:1rem;}
     }
 
 /* HEADER */
-.sfondopc{background-image: url("../images/banner.jpg");
+.sfondopc{background-image: url("../images/banner.jpg");  
     margin:0 auto;
-    text-align: center;
-background-size: 500px;
-padding-bottom: 30px;
+    background-size: 100% 100%;
+    background-size: cover;
+    background-image:no-repeat;
     
+    text-align: center;
+margin:0;
+padding-bottom: 150px;
+    padding-top:150px;
 }
+
+.sfondopc p{padding-bottom:10px;}
+
+
 
 .bottonevia{border-radius: 5px;
 font-size:1.5rem;
@@ -107,9 +115,8 @@ aside h2{font-size:1rem;
 text-align: center;
 padding:0}
 
-aside img {width:325px;
-padding-left:80px;
-margin-left:15px;
+aside img {width: 325px;
+    margin-left:25px;
 }
 
 
