@@ -70,22 +70,31 @@ p{ font-size:1rem;
     text-align: left;
 }
 
-.paddingarticle{padding:30px;}
+.paddingarticle{padding:30px;
+    }
 
 
 /* MAIN */
 
-.allinea{text-align: center;}
 
-.allineadx{text-align:left ;}
+
+.allineadx{
+   display: inline-block;
+   text-align: left;
+  }
+
+  .allineadx div{display: inline-block;}
+
+  article img{border-radius:50%;
+margin-left:250px;
+margin-top:150px;}
 
 
 /* ELEMENTI NEL MAIN - ARTICLE */
 .lavoradovevuoi{ border-radius:50% !important;
-
     
-    align-items: center !important;
-   
+    align-items: left;
+    
   }
 
 
