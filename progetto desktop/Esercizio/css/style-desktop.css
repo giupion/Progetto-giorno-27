@@ -87,6 +87,7 @@ p{ font-size:1rem;
     font-style:oblique;
     padding: 30px;
     text-align: center;
+    width:100%;
 
 }
 
@@ -95,8 +96,12 @@ section h1{color:white !important;}
 
 /* ELEMENTI NELL' ASIDE */
 
-.parent div{display: inline-block;
+.parent div {display: inline-block;
 text-align: left;}
+
+aside p {font-size:0.5rem;
+}
+aside h1{font-size:0.5rem;}
 
 /* FOOTER */
 footer{
