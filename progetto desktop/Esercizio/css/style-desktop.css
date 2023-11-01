@@ -104,19 +104,25 @@ section h1{color:white !important;}
 
 /* ELEMENTI NELL' ASIDE */
 
-.parent  {display: inline-block;
+.parent  {text-align:center;
+    margin: 20px 0;
+    padding: 20px;
 }
+.parent div{display: inline-block;}
 
 aside p {font-size:0.7rem;
-    text-align: left;
+    text-align:center;
     margin:0;
 }
 aside h2{font-size:1rem;
 text-align: center;
 padding:0}
 
-aside img {width: 325px;
-    margin-left:25px;
+.parent img  {width:350px;
+    
+    
+}
+.linea{display: inline-block;
 }
 
 
