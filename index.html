@@ -4,13 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Corso Web-Developer: Epicode School</title>
-    
+
     <!-- Aggiungi lo script per il reindirizzamento -->
     <script>
-        // Reindirizza alla versione desktop se la larghezza dello schermo è >= 768px
-        if (window.innerWidth >= 768) {
-            window.location.href = "progetto%20desktop/index.html"; // Cambia il percorso se necessario
-        }
+        document.addEventListener("DOMContentLoaded", function() {
+            // Controlla la larghezza dello schermo e reindirizza alla versione desktop se >= 768px
+            if (window.innerWidth >= 768) {
+                window.location.href = "progetto%20desktop/index.html"; // Modifica il percorso se necessario
+            }
+        });
     </script>
 
     <!--CSS e CSS reset-->
